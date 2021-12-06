@@ -1,13 +1,13 @@
 <p align="center">
 <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Expert;React%20Master;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22"> -->
 </p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=MiracleTalent0123.MiracleTalent0123" />
-<img align="right" src="https://img.shields.io/github/followers/MiracleTalent0123?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=softfantasy.softfantasy" />
+<img align="right" src="https://img.shields.io/github/followers/softfantasy?label=Follow&style=social" />
 <h1 align="center"></h1>
-<!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=MiracleTalent0123&theme=github&count_private=true" /> -->
+<!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=softfantasy&theme=github&count_private=true" /> -->
 <h1 align="center"></h1>
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=MiracleTalent0123&count_private=true&show_icons=true&theme=chartreuse-dark" />
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiracleTalent0123&layout=compact&theme=chartreuse-dark&langs_count=8" />
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=softfantasy&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softfantasy&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" />
 </br>
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
