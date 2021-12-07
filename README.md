@@ -1,6 +1,10 @@
 <p align="center">
-<!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Expert;React%20Master;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22"> -->
+    <img src="https://github-profile-trophy.vercel.app/?username=softfantasy&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
+<!-- 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mern-dev-full&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
+</p> -->
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=softfantasy.softfantasy" />
 <img align="right" src="https://img.shields.io/github/followers/softfantasy?label=Follow&style=social" />
 <h1 align="center"></h1>
@@ -9,7 +13,7 @@
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=softfantasy&count_private=true&show_icons=true&theme=chartreuse-dark" />
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softfantasy&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" />
-</br>
+<br/>
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
 <table>
     <tr>
@@ -25,7 +29,7 @@
         <td><img src="https://img.icons8.com/color/2x/tensorflow.png" width="100" alt="TensorFlow"></td>
     </tr>
     <tr>
-        <td><img src="https://img.icons8.com/color/2x/nodejs.png" width="100" alt="node.js"></td>
+        <td><img src="https://img.icons8.com/color/2x/nodejs.png" width="100" alt="Node.js"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100" alt="Laravel"></td>
         <td><img src="https://img.icons8.com/color/2x/django.png" width="100" alt="Django"></td>
         <td><img src="https://img.icons8.com/nolan/2x/wordpress.png" width="100" alt="WordPress"></td>
@@ -39,7 +43,7 @@
 </table>
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">About Me</h2>
-
+I'll always be with you and your business.
 <div>
   
     
@@ -51,11 +55,11 @@
 
 ✔️ Very strong knowledge of modern Frontend frameworks such as React, Angular, Vue, etc. </br>
 ✔️ Developed front-end for a wide range of fully responsive webpages using Modern UI libraries</br>
-✔️ Material UI, MDBReact, Ant Design, React Bootstrap, Angular Material Design, ng-bootstrap, Vuetify, etc. </br>
+✔️ Material UI, MDB Pro React, Ant Design, React Bootstrap, Angular Material Design, ng-bootstrap, Vuetify, etc. </br>
 ✔️ Modern CSS frameworks such as Tailwind CSS, Bootstrap, Bulma CSS </br>
 ✔️ Created back-end api that will add utility to everything the front-end designer creates </br>
 ✔️ Using Backend frameworks such as Node, Laravel, CodeIgniter, Django, etc. </br>
-✔️ Worked with databases such as MySQL, Sqlite, MongoDB and so on </br>
+✔️ Worked with databases such as MySQL, Sqlite, MongoDB, Oracle and so on </br>
 ✔️ Delivered high quality and user rich solutions on time </br>
 ✔️ Worked in large development teams as a team leader </br> 
 
