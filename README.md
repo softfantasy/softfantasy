@@ -14,7 +14,7 @@
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softfantasy&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" />
 <br/>
-<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
+<!-- <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
 <table>
     <tr>
         <td><img src="https://img.icons8.com/officel/2x/react.png" width="100" alt="React.js"></td>
@@ -44,14 +44,14 @@
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">About Me</h2>
 I'll always be with you and your business.
-<div>
+<div> -->
   
     
 <!-- ### Enthusiastic and creative developer with hands-on skills in a wide range of web applications -->
 
 <!-- Over the past 8 years, as a Frontend Developer, I have developed, launched and customized highly responsive, easy to use, user-friendly websites and applications using advanced technologies such as React, Angular and Vue. </br>-->
 
-### My highlight skills:
+<!-- ### My highlight skills:
 
 ✔️ Very strong knowledge of modern Frontend frameworks such as React, Angular, Vue, etc. </br>
 ✔️ Developed front-end for a wide range of fully responsive webpages using Modern UI libraries</br>
@@ -61,7 +61,7 @@ I'll always be with you and your business.
 ✔️ Using Backend frameworks such as Node, Laravel, CodeIgniter, Django, etc. </br>
 ✔️ Worked with databases such as MySQL, Sqlite, MongoDB, Oracle and so on </br>
 ✔️ Delivered high quality and user rich solutions on time </br>
-✔️ Worked in large development teams as a team leader </br> 
+✔️ Worked in large development teams as a team leader </br>  -->
 
 </div>
 
